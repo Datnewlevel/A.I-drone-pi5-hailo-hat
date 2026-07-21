@@ -1,0 +1,7 @@
+# Add context cache files pattern
+*.cache
+debug_audio_*.wav
+
+# Context state files (temporary, generated at runtime)
+tools/*/contexts/
+
