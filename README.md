@@ -6,6 +6,7 @@ Autonomous drone system combining edge AI object detection, MAVLink flight contr
 
 ![Demo Tracking](lv_0_20260721220901.gif)
 - Demo of the real-time target detection and tracking system
+- Youtube: https://youtube.com/shorts/7fjPJ0bLnjw?si=PMvI51TyAz_oIBma
 
 ![Drone Setup](drone(net).png)
 - Current ZD680 drone hardware featuring a Raspberry Pi 5 and Hailo AI HAT.
